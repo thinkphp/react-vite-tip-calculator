@@ -24,16 +24,16 @@ The **SPLITTER Tip Calculator** is designed to provide a fast and intuitive expe
   - **Tip Amount / person**: Individual tip share.
   - **Total / person**: Total payable amount per individual (bill share + tip share).
   - Values are automatically formatted to two decimal places (`$0.00`).
-- ** Smart Reset Action**:
+- **Smart Reset Action**:
   - Easily reset all fields to their default state with one click.
   - The reset button dynamically disables itself when the form is in its initial state.
-- ** Fully Responsive Design**:
+- **Fully Responsive Design**:
   - Mobile-first approach using CSS Grid and Flexbox.
   - Adapts smoothly from mobile screens to desktop split-card layouts.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - **[React 19](https://react.dev/)** – Component-based UI with React functional components and hooks (`useState`).
 - **[Vite 8](https://vite.dev/)** – Next-generation fast frontend tooling and dev server with Hot Module Replacement (HMR).
