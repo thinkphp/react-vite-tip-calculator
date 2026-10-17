@@ -1,4 +1,4 @@
-# SPLITTER – Tip Calculator App
+# SPLITTER ( Tip Calculator App )
 
 A modern, responsive, and interactive tip and bill-splitting calculator built with **React** and **Vite**. This application simplifies group dining and bill management by accurately computing individual tip amounts and total payments in real-time.
 
