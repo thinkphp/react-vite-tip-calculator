@@ -12,15 +12,15 @@ The **SPLITTER Tip Calculator** is designed to provide a fast and intuitive expe
 
 ## Features
 
-- ** Bill Input**: Enter the total bill amount with decimal precision support.
-- ** Flexible Tip Selection**:
+- **Bill Input**: Enter the total bill amount with decimal precision support.
+- **Flexible Tip Selection**:
   - **Quick Presets**: Select from common tip rates (**5%**, **10%**, **15%**, **25%**, **50%**).
   - **Custom Percentage**: Enter any custom percentage value directly in the "Altul" (Custom) field.
-- ** Bill Splitting**: Split the total cost evenly among any number of people.
-- ** Real-time Validation & Error Handling**:
+- **Bill Splitting**: Split the total cost evenly among any number of people.
+- **Real-time Validation & Error Handling**:
   - Prevents division by zero.
   - Displays a visual alert (`Nu poate fi 0`) and highlights input borders when the number of people is invalid.
-- ** Instant Results Display**:
+- **Instant Results Display**:
   - **Tip Amount / person**: Individual tip share.
   - **Total / person**: Total payable amount per individual (bill share + tip share).
   - Values are automatically formatted to two decimal places (`$0.00`).
